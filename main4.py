@@ -6,5 +6,5 @@
     """
 summ = 60
 a = b = summ // 6
-c = 2*summ // 3
+c = 2 * summ // 3
 print(a, b, c)
